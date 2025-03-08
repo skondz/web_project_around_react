@@ -1,12 +1,24 @@
-# React + Vite
+# Tripleten web_project_around
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Proyecto de diseño responsivo se trabajo en resoluciones diferentes para lograr visualizar la pagina en los dispositivos mas comunes (pc, tablet, movil). se muestra una pagina con fotografias de EE.UU, con botones trabajados con JavaScript.
+se agrego logica para agregar, dar like y/o eliminar Fotografias con un form
 
-Currently, two official plugins are available:
+## Tecnologias Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Diseño responsivo
+Figma
+HTML
+CSS
+JavaScript
+GIT avanzado
+Metodología BEM
+Grid
+form
+funtions
+vite y react
 
-## Expanding the ESLint configuration
+### Liga al proyecto de Figma
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+https://www.figma.com/file/mUgu8OSHWE0M6p6vfwmdu9/Sprint-4%3A-Around-The-U.S.-%2F-desktop-%2B-mobile?type=design&node-id=0-1&mode=design&t=omoJIlRF922CtUB4-0
+
+### Link a pages
