@@ -1,4 +1,6 @@
 import { useState } from "react";
+import edit from "../../images/EditButton.svg";
+import add from "../../images/addButton.svg";
 import avatar from "../../images/userAvatar.jpeg";
 import Popup from "./Components/Popup/Popup";
 import NewCard from "./Components/Popup/NewCard";
@@ -106,7 +108,7 @@ export default function Main() {
         <div className="profile__info">
           <h1 className="profile__name">Fernando Escobar</h1>
           <img
-            src="./src/images/EditButton.svg"
+            src={edit}
             alt="boton para editar"
             className="profile__btn-edit"
             onClick={() => {
@@ -116,7 +118,7 @@ export default function Main() {
           <h2 className="profile__about">WFM</h2>
         </div>
         <img
-          src="./src/images/addButton.svg"
+          src={add}
           alt="boton de agregar"
           className="profile__btn-add"
           onClick={() => {
