@@ -4,7 +4,7 @@
   background-color: #000000;
   height: 100%;
   width: 100%;
-  text-rendering: optimizeLegibility;
+  text-rendering: optimizelegibility;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%;

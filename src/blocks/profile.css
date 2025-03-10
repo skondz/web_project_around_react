@@ -138,7 +138,6 @@
     height: 50px;
     display: flex;
     flex-wrap: wrap;
-    margin: 30px auto 0 auto;
   }
   .profile__name {
     width: 196px;
